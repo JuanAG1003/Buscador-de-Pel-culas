@@ -20,11 +20,11 @@ Aplicación web interactiva para buscar películas en tiempo real mediante el co
 
 1. Clona este repositorio:
 ```bash
-git clone URL_DE_TU_REPOSITORIO
+git clone https://github.com/JuanAG1003/Buscador-de-Pel-culas
 ```
 2. Navega a la carpeta del proyecto:
 ```bash
-cd Buscador-de-Películas
+cd Buscador-de-Pel-culas
 ```
 3. Instala las dependencias:
 ```bash
