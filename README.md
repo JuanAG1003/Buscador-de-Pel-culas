@@ -1,5 +1,3 @@
-### 2. Buscador de Películas
-
 # Buscador de Películas Web
 
 Aplicación web interactiva para buscar películas en tiempo real mediante el consumo de una API externa, con un fuerte enfoque en la optimización de rendimiento.
